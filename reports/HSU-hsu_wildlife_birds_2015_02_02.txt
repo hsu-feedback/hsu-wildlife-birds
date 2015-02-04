@@ -1,0 +1,125 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 104
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 1
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-20 ; Times: 2
+	Date: 2015-01-22 ; Times: 2
+	Date: 2015-01-23 ; Times: 3
+	Date: 2015-01-27 ; Times: 3
+	Date: 2015-01-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "masked bobwhite" ; Times: 1
+	Query: "class:aves recordedby:woodroof" ; Times: 1
+	Query: "greater sage grouse" ; Times: 2
+	Query: ""Lanius ludovicianus" county:"kern" stateprovince:"california" country:"united states"" ; Times: 1
+	Query: "ara ambiguus" ; Times: 1
+	Query: "stateprovince:"New Mexico" genus:catherpes" ; Times: 1
+	Query: "specificepithet:nebulosa genus:Strix tissue:1" ; Times: 1
+	Query: "buteo regalis country:"mexico"" ; Times: 1
+	Query: "Zosterops japonicus hawaii" ; Times: 1
+	Query: "catalognumber:5983 institutioncode:HSU" ; Times: 1
+	Query: "branta ruficollis" ; Times: 3
+	Query: "Chen canagica" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 445 download events in this period)
+Total number of records downloaded: 245 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 220
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 7
+	Country: Mexico ; Times: 7
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-06 ; Times: 9
+	Date: 2015-01-07 ; Times: 1
+	Date: 2015-01-08 ; Times: 2
+	Date: 2015-01-12 ; Times: 5
+	Date: 2015-01-13 ; Times: 1
+	Date: 2015-01-14 ; Times: 7
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-17 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 2
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-29 ; Times: 1
+	Date: 2015-01-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "cardellina canadensis" ; Times: 1
+	Query: "Furnariidae" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 1
+	Query: "Tityridae" ; Times: 1
+	Query: "family:Cardinalidae type:specimen mappable:1" ; Times: 1
+	Query: "Thamnophilidae" ; Times: 1
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "stateprovince:"california" genus:aquila" ; Times: 1
+	Query: "w-nigrum" ; Times: 1
+	Query: "county:"Stanley" stateprovince:"south dakota"" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "Pipridae" ; Times: 1
+	Query: "Formicariidae" ; Times: 1
+	Query: ""Toxostoma lecontei" county:"kern" stateprovince:"california" country:"united states" year >= 1900 year <= 2015" ; Times: 6
+	Query: "type:specimen stateprovince:"Virginia" class:Aves" ; Times: 1
+	Query: "amazona auropalliata" ; Times: 1
+	Query: "Falco mexicanus county:"Kern" year >= 1900 year <= 2015" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:aves" ; Times: 1
+	Query: "Estrilda melpoda" ; Times: 1
+	Query: "type:specimen stateprovince:"virginia" class:aves" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Rhinocryptidae" ; Times: 1
+	Query: ""passer domesticus" type:specimen" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "type:specimen Galbuliformes" ; Times: 1
+	Query: "accipitridae country:"Mexico"" ; Times: 1
+	Query: "belted kingfisher type:specimen" ; Times: 1
+	Query: "psittacidae country:"Mexico"" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Pycnonotidae" ; Times: 1
+	Query: "Cotingidae" ; Times: 1
+	Query: "downy woodpecker" ; Times: 1
+	Query: "Northern Saw-whet Owl" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 188
+Total number of records retrieved from searches: 1333
+Number of download events that retrieved data from the resource: 39
+Total number of records downloaded: 245
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 204
+Total number of records retrieved from searches: 1437
+Number of download events that retrieved data from the resource: 214
+Total number of records downloaded: 48647
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
