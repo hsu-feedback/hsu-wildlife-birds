@@ -1,0 +1,121 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 263
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 6
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-07 ; Times: 9
+	Date: 2015-05-08 ; Times: 3
+	Date: 2015-05-11 ; Times: 3
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-24 ; Times: 2
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "CAPERCAILLIE" ; Times: 1
+	Query: "grus antigone" ; Times: 1
+	Query: "adelie penguin type:specimen" ; Times: 1
+	Query: "Yellow Rail" ; Times: 1
+	Query: "Yellow-throated vireo" ; Times: 2
+	Query: ""Anas x "" ; Times: 2
+	Query: "american kestrel type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 1
+	Query: "Leucosticte Leucosticte atrata type:specimen (Nevada)" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "falco sparverius highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1950 year <= 2015" ; Times: 1
+	Query: "bird Arkansas stateprovince:"Arkansas" class:Aves year >= 1980 year <= 2015" ; Times: 1
+	Query: "catalognumber:3541 institutioncode:HSU" ; Times: 2
+	Query: "pied wagtail type:specimen" ; Times: 1
+	Query: "aves Georgia United States Tachycineta bicolor" ; Times: 2
+	Query: "scolopax rusticola" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "clamator jacobinus" ; Times: 1
+	Query: "captive institutioncode:HSU" ; Times: 2
+	Query: "eurasian collared dove" ; Times: 1
+	Query: "king eider" ; Times: 1
+	Query: "aves Georgia United States Corvus ossifragus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 976 download events in this period)
+Total number of records downloaded: 522 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 333
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-24 ; Times: 3
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "tyto alba" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "arachnothera" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 253
+Total number of records retrieved from searches: 1771
+Number of download events that retrieved data from the resource: 95
+Total number of records downloaded: 1211
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 269
+Total number of records retrieved from searches: 1875
+Number of download events that retrieved data from the resource: 270
+Total number of records downloaded: 49613
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
