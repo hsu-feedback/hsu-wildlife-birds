@@ -1,0 +1,158 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 75
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 2
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-12 ; Times: 2
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-18 ; Times: 5
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-21 ; Times: 2
+	Date: 2015-06-23 ; Times: 5
+	Date: 2015-06-25 ; Times: 5
+	Date: 2015-06-26 ; Times: 2
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-28 ; Times: 1
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "red-faced cormorant" ; Times: 4
+	Query: "aves Georgia United States Sialia sialis" ; Times: 2
+	Query: "catalognumber:7429 institutioncode:HSU" ; Times: 1
+	Query: "aves Georgia United States Pipilo erythrophthalmus" ; Times: 1
+	Query: "Maxon" ; Times: 3
+	Query: "Falcipennis canadensis minnesota" ; Times: 1
+	Query: "aves Georgia United States Piranga olivacea" ; Times: 1
+	Query: "aves Georgia United States Setophaga ruticilla" ; Times: 1
+	Query: "common eider skin" ; Times: 2
+	Query: "coriell" ; Times: 1
+	Query: "aves Georgia United States cyanea" ; Times: 1
+	Query: "aves Georgia United States Piranga rubra" ; Times: 1
+	Query: "francolinus afer year >= 1960 year <= 2015" ; Times: 1
+	Query: "francolinus coqui year >= 1970 year <= 2015" ; Times: 1
+	Query: "Tchagra australis year >= 1970 year <= 2015" ; Times: 1
+	Query: "red-faced cormorant type:specimen" ; Times: 2
+	Query: "wheeler national wildlife refuge" ; Times: 1
+	Query: "eurasian capercaillie" ; Times: 1
+	Query: "aves Georgia United States Quiscalus major" ; Times: 2
+	Query: "Acryllium vulturinum year >= 1980 year <= 1990" ; Times: 1
+	Query: "capercaillie" ; Times: 1
+	Query: "rose-ringed parakeet" ; Times: 1
+	Query: "grus canadensis tabida" ; Times: 1
+	Query: "anas formosa" ; Times: 2
+	Query: "trogon citreolus" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 2
+	Query: "Ramphocelus bresilius" ; Times: 1
+	Query: "hsu" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "francolinus adspersus" ; Times: 1
+	Query: "ara maracana" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:hirundo genus:sterna" ; Times: 1
+	Query: "numida year >= 1990 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1524 download events in this period)
+Total number of records downloaded: 451 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 340
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Denmark ; Times: 9
+	Country: France ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 8
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "black-legged kittiwake type:specimen" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "snow bunting type:specimen" ; Times: 1
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "pelagic cormorant type:specimen" ; Times: 1
+	Query: "Selasphorus calliope" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "least auklet type:specimen" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Tchagra australis year >= 1970 year <= 2015" ; Times: 1
+	Query: "aves Chihuahua" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "red-faced cormorant type:specimen" ; Times: 2
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "Spizella pallida Mexico" ; Times: 2
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "tufted puffin type:specimen" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "elanus leucurus stateprovince:"California"" ; Times: 1
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "aves chihuahua" ; Times: 1
+	Query: "tangara chilensis" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:hirundo genus:sterna" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 297
+Total number of records retrieved from searches: 1846
+Number of download events that retrieved data from the resource: 131
+Total number of records downloaded: 1662
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 313
+Total number of records retrieved from searches: 1950
+Number of download events that retrieved data from the resource: 306
+Total number of records downloaded: 50064
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
