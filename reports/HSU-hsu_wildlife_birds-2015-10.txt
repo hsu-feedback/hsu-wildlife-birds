@@ -1,0 +1,111 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 79
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: United Kingdom ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Canada ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-15 ; Times: 5
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "kiwi" ; Times: 1
+	Query: "struthio camelus (skel OR skeleton)" ; Times: 1
+	Query: "Acryllium vulturinum year &gt;= 1960" ; Times: 1
+	Query: "Brachyramphus marmoratus institutioncode:HSU" ; Times: 1
+	Query: "Brachyramphus marmoratus county:&#34;Humboldt&#34; year &gt;= 1993" ; Times: 1
+	Query: "white-tailed tropicbird" ; Times: 3
+	Query: "Micrastur (skel OR skeleton)" ; Times: 1
+	Query: "andean condor" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Synthliboramphus scrippsi Channel" ; Times: 1
+	Query: "catalognumber:6752 (Brachyramphus)" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "Anas erythrorhyncha" ; Times: 1
+	Query: "Synthliboramphus scrippsi Santa Barbara" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "acanthisitta (skel OR skeleton)" ; Times: 1
+	Query: "francolinus swainsonii" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 823 download events in this period)
+Total number of records downloaded: 4796
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Oregon&#34; year &gt;= 1980" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Ortalis wagleri" ; Times: 1
+	Query: "american tree sparrow" ; Times: 1
+	Query: "white-tailed tropicbird" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+
+
+End of report.
