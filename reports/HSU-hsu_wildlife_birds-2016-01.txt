@@ -1,0 +1,82 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 233
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-18 ; Times: 4
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:9c007868-b667-4c07-9a1a-96b796066f64" ; Times: 1
+	Query: "blue penguin" ; Times: 3
+	Query: "cinclodes aricomae" ; Times: 3
+	Query: "elf" ; Times: 6
+	Query: "Least Storm-Petrel" ; Times: 1
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 1
+	Query: "spotted owl" ; Times: 3
+	Query: "MEXICAN DUCK" ; Times: 1
+	Query: "charadrius county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ANAS PLATYRHYNCHOS diazi" ; Times: 2
+	Query: "Ixoreus naevius month &gt;= 6 month &lt;= 6" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 507 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "Setophaga discolor type:specimen" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+
+
+End of report.
