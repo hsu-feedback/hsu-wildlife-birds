@@ -1,0 +1,122 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 164
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 28
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 6
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-18 ; Times: 5
+	Date: 2016-04-19 ; Times: 2
+	Date: 2016-04-14 ; Times: 3
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 3
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 10
+	Date: 2016-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pteroglossus aracari type:specimen" ; Times: 1
+	Query: "penguin Skull" ; Times: 2
+	Query: "elf" ; Times: 20
+	Query: "Ammodramus savannarum dakota" ; Times: 1
+	Query: "Leptasthenura xenothorax" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 3
+	Query: "Dolichonyx oryzivorus Ontario" ; Times: 10
+	Query: "type:specimen specificepithet:striata genus:Setophaga month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "Wright AND Santa Catalina Island" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga" ; Times: 1
+	Query: "Synthliboramphus AND &#34;SAnta Barbara Island&#34;" ; Times: 1
+	Query: "hawaiian short-eared owl skin" ; Times: 1
+	Query: "specificepithet:sonneratii genus:Gallus" ; Times: 1
+	Query: "type:specimen specificepithet:striata genus:Setophaga" ; Times: 2
+	Query: "HSU 5637" ; Times: 2
+	Query: "Plaskett stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "passenger pigeon" ; Times: 3
+	Query: "Crax rubra" ; Times: 1
+	Query: "type:specimen genus:Psittacus (timneh)" ; Times: 2
+	Query: "Anacapa NOT Fish AND 1894" ; Times: 1
+	Query: "black-headed siskin" ; Times: 1
+	Query: "Rock Sandpiper type:specimen specificepithet:ptilocnemis genus:Calidris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anacapa AND 1894" ; Times: 2
+	Query: "Synthliboramphus AND Anacapa" ; Times: 2
+	Query: "Rock Sandpiper type:specimen stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga month &gt;= 1 month &lt;= 4" ; Times: 1
+	Query: "Rock Sandpiper type:specimen specificepithet:ptilocnemis genus:Calidris stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1312 download events in this period)
+Total number of records downloaded: 154
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-24 ; Times: 3
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "phoebastria" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "Melierax gabar" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
