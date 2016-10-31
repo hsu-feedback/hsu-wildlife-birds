@@ -1,0 +1,122 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 83
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Portugal ; Times: 43
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 25
+	Date: 2016-09-09 ; Times: 15
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-07 ; Times: 7
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pusilla genus:Cardellina year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Archilochus colubris 1" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Anas formosa 1" ; Times: 1
+	Query: "Agapornis fischeri 1" ; Times: 2
+	Query: "Columba livia 1" ; Times: 1
+	Query: "Actophilornis africanus 1" ; Times: 1
+	Query: "Ploceus intermedius 1" ; Times: 2
+	Query: "Parula Missouri type:specimen" ; Times: 1
+	Query: "Aramus guarauna 1" ; Times: 1
+	Query: "Bubo scandiacus 1" ; Times: 1
+	Query: "Chen rossii 1" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 2
+	Query: "Branta bernicla 1" ; Times: 1
+	Query: "Aix galericulata 1" ; Times: 2
+	Query: "Acryllium vulturinum 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 2
+	Query: "Colius striatus 1" ; Times: 1
+	Query: "Cathartes aura 1" ; Times: 1
+	Query: "Falco sparverius 1" ; Times: 1
+	Query: "Anser albifrons 1" ; Times: 2
+	Query: "Coracias spatulata" ; Times: 1
+	Query: "Gallinago delicata minnesota" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Anas rubripes 1" ; Times: 1
+	Query: "Seiurus Missouri type:specimen" ; Times: 1
+	Query: "Bonasa umbellus 1" ; Times: 1
+	Query: "Aratinga jandaya 1" ; Times: 1
+	Query: "Anas americana 1" ; Times: 3
+	Query: "Chrysolophus pictus 1" ; Times: 2
+	Query: "Aythya valisineria 1" ; Times: 1
+	Query: "Eudocimus ruber 1" ; Times: 2
+	Query: "Haematopus bachmani 1" ; Times: 1
+	Query: "Anas cyanoptera 1" ; Times: 2
+	Query: "Aix sponsa 1" ; Times: 2
+	Query: "Cistothorus platensis Missouri type:specimen" ; Times: 1
+	Query: "Callipepla gambelii 1" ; Times: 1
+	Query: "cassiculus melanicterus" ; Times: 1
+	Query: "Taeniopygia guttata 1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 811 download events in this period)
+Total number of records downloaded: 203
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Canada ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 4
+	Date: 2016-09-05 ; Times: 3
+	Date: 2016-09-06 ; Times: 4
+	Date: 2016-09-07 ; Times: 3
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 7
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pusilla genus:Cardellina year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "roadrunner" ; Times: 1
+	Query: "Setophaga magnolia year &gt;= 1980" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "Empidonax type:specimen (alnorum OR difficilis OR traillii) tissue:1" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Sitta canadensis year &gt;= 1980" ; Times: 1
+	Query: "cistothorus platensis type:specimen" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Catharus ustulatus year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "type:specimen (Empidonax OR Willow flycatcher OR Alder flycatcher) tissue:1" ; Times: 1
+	Query: "geococcyx californianus" ; Times: 1
+	Query: "Vireo olivaceus year &gt;= 1980" ; Times: 1
+	Query: "progne chalybea continent:america" ; Times: 1
+	Query: "Coracias spatulata" ; Times: 1
+	Query: "tricolored blackbird" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Troglodytes troglodytes year &gt;= 1980" ; Times: 1
+	Query: "type:specimen (Empidonax alnorum OR Empidonax difficilis OR Empidonax traillii) tissue:1" ; Times: 1
+	Query: "Vireo philadelphicus year &gt;= 1980" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "eos bornea type:specimen" ; Times: 1
+	Query: "Oreothlypis celata year &gt;= 1980" ; Times: 1
+	Query: "Certhia americana year &gt;= 1980" ; Times: 1
+
+
+End of report.
