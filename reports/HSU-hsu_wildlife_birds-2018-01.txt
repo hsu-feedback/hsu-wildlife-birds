@@ -1,0 +1,176 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 377
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 63
+	Country: India ; Times: 1
+	Country: United States ; Times: 37
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 3
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-10 ; Times: 2
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-15 ; Times: 16
+	Date: 2018-01-14 ; Times: 3
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-16 ; Times: 50
+	Date: 2018-01-24 ; Times: 5
+	Date: 2018-01-30 ; Times: 6
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-31 ; Times: 7
+	Date: 2018-01-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "Anas crecca minnesota" ; Times: 1
+	Query: "Manacus candei" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Setophaga fusca" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "chauna torquata vntype:specimen" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Tympanuchus cupido minnesota" ; Times: 2
+	Query: "Aramides cajaneus" ; Times: 1
+	Query: "Spinus notatus" ; Times: 1
+	Query: "Patagioenas flavirostris" ; Times: 1
+	Query: "Setophaga graciae" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "Cardellina canadensis" ; Times: 1
+	Query: "Picoides borealis" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Vermivora cyanoptera" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla class:Aves county:&#34;pima&#34;" ; Times: 3
+	Query: "Micrastur ruficollis" ; Times: 1
+	Query: "Setophaga discolor" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "specificepithet:asiatica genus:Zenaida stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "vntype:specimen class:aves recordedby:Harvey year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Trogon citreolus" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Oxyura jamaicensis minnesota" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:poecile year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Psarocolius wagleri" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "gbifdatasetid:9c007868-b667-4c07-9a1a-96b796066f64" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Parkesia motacilla" ; Times: 1
+	Query: "Perdix minnesota" ; Times: 1
+	Query: "Pachyramphus cinnamomeus" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 4
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "Nomonyx dominicus" ; Times: 1
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "genus:Nucifraga institutioncode:HSU" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Icterus chrysater" ; Times: 1
+	Query: "Jacana spinosa" ; Times: 1
+	Query: "Setophaga pensylvanica" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "Crex Crex" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "oak titmouse" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "specificepithet:squamata genus:Callipepla class:Aves county:&#34;cochise&#34;" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Crypturellus cinnamomeus" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Dendrocygna autumnalis autumnalis vntype:specimen" ; Times: 1
+	Query: "Trogon melanocephalus" ; Times: 1
+	Query: "Aythya collaris minnesota" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Ohio&#34; (song sparrow) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "specificepithet:squamata genus:Callipepla class:Aves county:&#34;pima&#34;" ; Times: 1
+	Query: "Dendrocygna eytoni vntype:specimen" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:poecile year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "chauna torquata" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "Malacoptila panamensis" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1398 download events in this period)
+Total number of records downloaded: 126
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melodia genus:melospiza year &gt;= 1901 year &lt;= 1904 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "northern mockingbird vntype:specimen" ; Times: 1
+	Query: "pinyon jay" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Platysteiridae" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "Empidonax hammondii" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Locustella" ; Times: 1
+
+
+End of report.
