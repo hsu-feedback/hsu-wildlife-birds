@@ -1,0 +1,159 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 303
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 32
+	Country: Colombia ; Times: 30
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-25 ; Times: 4
+	Date: 2018-02-11 ; Times: 10
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-19 ; Times: 8
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-03 ; Times: 3
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 5
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 8
+	Date: 2018-02-05 ; Times: 26
+	Date: 2018-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 30
+	Query: "Passenger Pigeon" ; Times: 12
+	Query: "Mottled Petrel" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 2
+	Query: "Bar-tailed Godwit" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 11
+	Query: "Lophonetta specularoides basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chauna torquata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "bobolink" ; Times: 1
+	Query: "red knot vntype:specimen year &gt;= 1800 year &lt;= 2000 month &gt;= 5 month &lt;= 5 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "passenger pigeon" ; Times: 5
+	Query: "specificepithet:fabalis class:aves stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "San Bernardino pubescens" ; Times: 1
+	Query: "Hymenolaimus malacorhynchos basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(ara ambiguus)" ; Times: 1
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "gbifdatasetid:9c007868-b667-4c07-9a1a-96b796066f64" ; Times: 2
+	Query: "atlantic puffin" ; Times: 1
+	Query: "specificepithet:niger genus:Cypseloides month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "(ara ambiguus )" ; Times: 1
+	Query: "class:aves county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:HSU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aythya australis basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1892 download events in this period)
+Total number of records downloaded: 948
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 57
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-20 ; Times: 6
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 4
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-02 ; Times: 11
+	Date: 2018-02-01 ; Times: 3
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 10
+	Date: 2018-02-05 ; Times: 16
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 3
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "specificepithet:gouldiae genus:Erythrura" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Todus continent:North America" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "red knot" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "specificepithet:cristatus genus:Aegotheles" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+
+
+End of report.
