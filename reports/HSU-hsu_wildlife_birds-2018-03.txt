@@ -1,0 +1,143 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 232
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 95
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 4
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-17 ; Times: 1
+	Date: 2018-03-16 ; Times: 8
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-03 ; Times: 2
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-05 ; Times: 6
+	Date: 2018-03-28 ; Times: 9
+	Date: 2018-03-29 ; Times: 7
+	Date: 2018-03-26 ; Times: 26
+	Date: 2018-03-27 ; Times: 19
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-20 ; Times: 4
+	Date: 2018-03-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chroicocephalus specificepithet:philadelphia" ; Times: 2
+	Query: "genus:Nothoprocta  specificepithet:perdicaria" ; Times: 3
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "genus:Vanellus specificepithet:miles" ; Times: 2
+	Query: "elf" ; Times: 4
+	Query: "passenger pigeon" ; Times: 5
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 6
+	Query: "copper pheasant" ; Times: 1
+	Query: "specificepithet:incana class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 2
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 3
+	Query: "ara ambiguus" ; Times: 3
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 2
+	Query: "carolina parakeet" ; Times: 1
+	Query: "genus:Taeniopygia specificepithet:guttata" ; Times: 2
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 2
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:bulleri family:Procellariidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Coracias specificepithet:cyanogaster" ; Times: 6
+	Query: "vultur" ; Times: 2
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 5
+	Query: "class:Aves recordedby:McConnell" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Merops specificepithet:pusillus" ; Times: 2
+	Query: "genus:Todus specificepithet:mexicanus" ; Times: 6
+	Query: "genus:Eumomota specificepithet:superciliosa" ; Times: 2
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "genus:Vultur specificepithet:gryphus" ; Times: 5
+	Query: "passenger pigeon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 2
+	Query: "institutioncode:HSU" ; Times: 6
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "genus:Gallus specificepithet:gallus" ; Times: 3
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 2
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 2
+	Query: "specificepithet:oberholseri genus:Empidonax stateprovince:California" ; Times: 1
+	Query: "genus:Nothoprocta specificepithet:perdicaria" ; Times: 2
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 2
+	Query: "genus:Nestor specificepithet:notabilis" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1284 download events in this period)
+Total number of records downloaded: 8830
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 15
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-27 ; Times: 8
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "family:alcidae hastissue:1" ; Times: 1
+	Query: "ara ambiguus" ; Times: 2
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Eumomota superciliosa" ; Times: 1
+	Query: "conuropsis" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "specificepithet:sandvicensis genus:Branta" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
