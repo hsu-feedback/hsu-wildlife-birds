@@ -1,0 +1,132 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 93
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 46
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 22
+	Country: Colombia ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 10
+	Date: 2018-05-04 ; Times: 17
+	Date: 2018-05-05 ; Times: 13
+	Date: 2018-05-10 ; Times: 4
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-08 ; Times: 6
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-24 ; Times: 4
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:atricapilla genus:Lonchura" ; Times: 1
+	Query: "specificepithet:nattererii genus:Cotinga" ; Times: 1
+	Query: "specificepithet:subalaris genus:Syndactyla" ; Times: 1
+	Query: "specificepithet:virens genus:Contopus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "specificepithet:aricomae genus:Cinclodes" ; Times: 1
+	Query: "specificepithet:guttata genus:Tangara" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:fraseri genus:Oreomanes" ; Times: 1
+	Query: "specificepithet:brachyura genus:Synallaxis" ; Times: 1
+	Query: "specificepithet:elegantissima genus:Euphonia" ; Times: 1
+	Query: "Agapornis lilianae " ; Times: 19
+	Query: "specificepithet:argentifrons genus:Scytalopus" ; Times: 1
+	Query: "specificepithet:coronata genus:Zeledonia" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 1
+	Query: "specificepithet:melanoxantha genus:Phainoptila" ; Times: 2
+	Query: "specificepithet:riefferii genus:Pipreola" ; Times: 1
+	Query: "specificepithet:savannarum genus:Ammodramus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Long-billed Dowitcher" ; Times: 1
+	Query: "specificepithet:fulviventris genus:Epinecrophylla" ; Times: 1
+	Query: "specificepithet:cayana genus:Cotinga" ; Times: 1
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 2
+	Query: "specificepithet:immutabilis family:Diomedeidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Carolina Parakeet" ; Times: 1
+	Query: "specificepithet:xenothorax genus:Leptasthenura" ; Times: 1
+	Query: "specificepithet:rubiginosus genus:Margarornis" ; Times: 1
+	Query: "specificepithet:wagleri genus:Psarocolius" ; Times: 1
+	Query: "aves charadrius montana" ; Times: 1
+	Query: "specificepithet:punensis genus:Phrygilus" ; Times: 1
+	Query: "specificepithet:dimidiatus genus:Ramphocelus" ; Times: 1
+	Query: "genus:Parabuteo stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:cinnamomeus genus:Pachyramphus" ; Times: 1
+	Query: "specificepithet:chilensis genus:Tangara" ; Times: 1
+	Query: "specificepithet:formosa genus:Calocitta" ; Times: 1
+	Query: "western tragopan" ; Times: 1
+	Query: "specificepithet:malacca genus:Lonchura" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Mycteria stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:bulleri family:Procellariidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "dovekie" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:flammigerus genus:Ramphocelus" ; Times: 1
+	Query: "specificepithet:grisegena genus:Podiceps stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Psittacara erythrogenys" ; Times: 1
+	Query: "specificepithet:chrysater genus:Icterus" ; Times: 1
+	Query: "song sparrow vntype:specimen year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Onychoprion aleuticus" ; Times: 3
+	Query: "specificepithet:candei genus:Manacus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1178 download events in this period)
+Total number of records downloaded: 8833
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen institutioncode:HSU" ; Times: 1
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "Cape May Warbler" ; Times: 1
+	Query: "&#34;American robin&#34; vntype:specimen specificepithet:migratorius genus:Turdus" ; Times: 1
+	Query: "Psittacara erythrogenys" ; Times: 1
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "Onychoprion aleuticus" ; Times: 2
+
+
+End of report.
