@@ -1,0 +1,137 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 170
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: Unknown ; Times: 31
+	Country: United States ; Times: 55
+	Country: United Kingdom ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-08 ; Times: 5
+	Date: 2018-08-01 ; Times: 5
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-22 ; Times: 6
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-16 ; Times: 7
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-06 ; Times: 39
+	Date: 2018-08-12 ; Times: 4
+	Date: 2018-08-07 ; Times: 14
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:magnolia genus:setophaga stateprovince:&#34;ohio&#34; year &gt;= 1800 year &lt;= 1984 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:pyrenestes year &gt;= 1890 year &lt;= 1995" ; Times: 1
+	Query: "great shearwater" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "HSU 2857" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "county:&#34;Pottawattamie&#34; stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;Orange&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "HSU 2149" ; Times: 2
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "HSU 1336" ; Times: 3
+	Query: "elf" ; Times: 4
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:smithornis year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "vntype:specimen specificepithet:locustella genus:ortygospiza year &gt;= 1875 year &lt;= 1995" ; Times: 1
+	Query: "Pycnonotus xanthopygos" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:bryant year &gt;= 1962 year &lt;= 1967" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 3
+	Query: "Eudocimus ruber" ; Times: 2
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:amazona institutioncode:HSU" ; Times: 1
+	Query: "todiramphus cinnamominus" ; Times: 1
+	Query: "gallirallus australis" ; Times: 1
+	Query: "vntype:specimen specificepithet:natalensis genus:caprimulgus year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "county:&#34;humboldt&#34; year &gt;= 1996 year &lt;= 1996" ; Times: 1
+	Query: "Goura scheepmakeri" ; Times: 3
+	Query: "Onychoprion aleuticus" ; Times: 48
+	Query: "Glaucidium capense" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1416 download events in this period)
+Total number of records downloaded: 536
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 4
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-09 ; Times: 5
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-19 ; Times: 7
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-14 ; Times: 8
+	Date: 2018-08-15 ; Times: 9
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:pyrenestes year &gt;= 1890 year &lt;= 1995" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "great tailed grackle" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Aleutian Tern" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "Onychoprion aleuticus" ; Times: 4
+
+
+End of report.
