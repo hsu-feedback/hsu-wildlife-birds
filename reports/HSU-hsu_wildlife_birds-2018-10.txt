@@ -1,0 +1,126 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 162
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 51
+	Country: China ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 3
+	Date: 2018-10-23 ; Times: 5
+	Date: 2018-10-06 ; Times: 6
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 5
+	Date: 2018-10-27 ; Times: 1
+	Date: 2018-10-24 ; Times: 10
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-18 ; Times: 9
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-31 ; Times: 10
+	Date: 2018-10-17 ; Times: 6
+	Date: 2018-10-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "catalognumber:3261 institutioncode:HSU" ; Times: 1
+	Query: "country:&#34;Peru&#34; institutioncode:HSU" ; Times: 5
+	Query: "vntype:specimen genus:Selasphorus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 2010 month &gt;= 3 month &lt;= 6" ; Times: 2
+	Query: "country:&#34;peru&#34; institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Strix preparations:tissue" ; Times: 1
+	Query: "Leptasthenura xenothorax" ; Times: 1
+	Query: "catalognumber:8404 institutioncode:HSU" ; Times: 1
+	Query: "skeleton vntype:specimen family:Acanthisittidae" ; Times: 1
+	Query: "class:Aves catalognumber:9566 institutioncode:HSU" ; Times: 2
+	Query: "Oreomanes fraseri" ; Times: 1
+	Query: "HSU 2149" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "class:Aves catalognumber:9496 institutioncode:HSU" ; Times: 1
+	Query: "HSU 2857" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:8339 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:aves year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "HSU 1336" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "catalognumber:5807 institutioncode:HSU" ; Times: 2
+	Query: "Brotogeris pyrrhoptera" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "catalognumber:262 institutioncode:HSU" ; Times: 2
+	Query: "country:&#34;peru&#34; recordedby:aucca" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "HSU 1244" ; Times: 1
+	Query: "brown-headed cowbird california year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "specificepithet:caerulea genus:Polioptila class:Aves year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "catalognumber:5021 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:3113 institutioncode:HSU" ; Times: 2
+	Query: "HSU 1263" ; Times: 1
+	Query: "catalognumber:2569 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:punensis genus:phrygilus catalognumber:8339" ; Times: 1
+	Query: "specificepithet:punensis genus:phrygilus" ; Times: 3
+	Query: "locality:yanococha country:&#34;peru&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix hastissue:1" ; Times: 1
+	Query: "catalognumber:5587 institutioncode:HSU" ; Times: 1
+	Query: "Cinclodes aricomae" ; Times: 1
+	Query: "Shasta County pipilo maculatus" ; Times: 1
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "catalognumber:2289 institutioncode:HSU" ; Times: 1
+	Query: "genus:selasphorus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34; (selasphorus) year &gt;= 1860 year &lt;= 2007 month &gt;= 3 month &lt;= 6" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1300 download events in this period)
+Total number of records downloaded: 229
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Norway ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-23 ; Times: 4
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "vntype:specimen class:Aves county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+
+
+End of report.
