@@ -1,0 +1,143 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 153
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 38
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-15 ; Times: 5
+	Date: 2019-01-09 ; Times: 16
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-11 ; Times: 6
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-13 ; Times: 4
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Todiramphus sacer" ; Times: 1
+	Query: "Eubucco bourcierii" ; Times: 1
+	Query: "Nomonyx dominicus" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Lesbia victoriae" ; Times: 1
+	Query: "&#34;H. Wright&#34; AND &#34;Island&#34;" ; Times: 1
+	Query: "Spatula cyanoptera" ; Times: 1
+	Query: "Anas georgica" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "anas diazi" ; Times: 1
+	Query: "Anas flavirostris" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Spatula discors" ; Times: 1
+	Query: "Aratinga nenday" ; Times: 2
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 4
+	Query: "Brotogeris pyrrhoptera" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "Pionus menstruus" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Aramides cajaneus" ; Times: 1
+	Query: "Ramphastos ambiguus" ; Times: 1
+	Query: "specificepithet:tenuirostris genus:Ardenna basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ramphomicron microrhynchum" ; Times: 1
+	Query: "Todiramphus cinnamominus" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:megascops stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Oceanodroma microsoma" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Ara chloropterus" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Cinclodes aricomae" ; Times: 1
+	Query: "Psittacara erythrogenys" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "skeleton genus:Acanthisitta" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:farrell year &gt;= 1970 year &lt;= 1980" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 962 download events in this period)
+Total number of records downloaded: 119
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-11 ; Times: 3
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "Asio flammeus" ; Times: 1
+	Query: "specificepithet:sula genus:Sula stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "rosy finch" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+
+
+End of report.
