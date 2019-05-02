@@ -1,0 +1,280 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 304
+Number of records retrieved in searches: 735
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Slovenia ; Times: 1
+	Country: Belgium ; Times: 11
+	Country: United States ; Times: 257
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 27
+	Date: 2019-04-19 ; Times: 12
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-05 ; Times: 14
+	Date: 2019-04-12 ; Times: 7
+	Date: 2019-04-11 ; Times: 18
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 8
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-14 ; Times: 7
+	Date: 2019-04-30 ; Times: 21
+	Date: 2019-04-07 ; Times: 10
+	Date: 2019-04-02 ; Times: 9
+	Date: 2019-04-03 ; Times: 7
+	Date: 2019-04-22 ; Times: 30
+	Date: 2019-04-23 ; Times: 11
+	Date: 2019-04-06 ; Times: 7
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-24 ; Times: 11
+	Date: 2019-04-25 ; Times: 7
+	Date: 2019-04-29 ; Times: 20
+	Date: 2019-04-08 ; Times: 45
+	Date: 2019-04-09 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "hsu 1336" ; Times: 3
+	Query: "imperial woodpecker" ; Times: 1
+	Query: "catalognumber:5916 institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:5919 institutioncode:HSU" ; Times: 1
+	Query: "&#34;welder wildlife foundation&#34;" ; Times: 1
+	Query: "catalognumber:3238 institutioncode:HSU" ; Times: 3
+	Query: "hsu 1245" ; Times: 2
+	Query: "hsu 1244" ; Times: 3
+	Query: "specificepithet:lecontei genus:Toxostoma year &gt;= 1970 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:517 institutioncode:HSU" ; Times: 2
+	Query: "locality:willow creek county:&#34;lassen&#34;" ; Times: 2
+	Query: "&#34;heady ashburn&#34;" ; Times: 1
+	Query: "catalognumber:1970 institutioncode:HSU" ; Times: 2
+	Query: "elf" ; Times: 5
+	Query: "Wilder AND Island" ; Times: 1
+	Query: "locality:boundary campground stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "foulehaio carunculatus" ; Times: 1
+	Query: "catalognumber:738 institutioncode:HSU" ; Times: 4
+	Query: "catalognumber:2502 institutioncode:HSU" ; Times: 11
+	Query: "catalognumber:1900 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:750 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1892 institutioncode:HSU" ; Times: 1
+	Query: "locality:state game farm county:&#34;sacramento&#34;" ; Times: 1
+	Query: "catalognumber:1375 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:3248 institutioncode:HSU" ; Times: 3
+	Query: "Agelaius phoeniceus Mendocino County" ; Times: 1
+	Query: "catalognumber:1879 institutioncode:HSU" ; Times: 2
+	Query: "county:&#34;santa barbara&#34; institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:5369 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2146 institutioncode:HSU" ; Times: 4
+	Query: "catalognumber:9720 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1604 institutioncode:HSU" ; Times: 1
+	Query: "Susan Sferra" ; Times: 1
+	Query: "locality:boundary campground" ; Times: 1
+	Query: "&#34;south san francisco bay national wildlife refuge&#34;" ; Times: 1
+	Query: "catalognumber:4221 institutioncode:HSU" ; Times: 2
+	Query: "county:&#34;sacramento&#34; recordedby:Hawes" ; Times: 1
+	Query: "catalognumber:751 institutioncode:HSU" ; Times: 2
+	Query: "county:&#34;ventura&#34; institutioncode:HSU" ; Times: 1
+	Query: "south san francisco bay national wildlife refuge" ; Times: 1
+	Query: "catalognumber:1672 institutioncode:HSU" ; Times: 1
+	Query: "andreucetti" ; Times: 2
+	Query: "amazona viridigenalis" ; Times: 1
+	Query: "eremophila alpestris Bear River Ridge" ; Times: 1
+	Query: "catalognumber:2613 institutioncode:HSU" ; Times: 1
+	Query: "hsu 1224" ; Times: 1
+	Query: "class:Aves catalognumber:9348 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:2182 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:8554 institutioncode:HSU" ; Times: 1
+	Query: "county:&#34;los angeles&#34; institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1297 institutioncode:HSU" ; Times: 4
+	Query: "locality:vass county:&#34;moore&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "catalognumber:4554 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2619 institutioncode:HSU" ; Times: 5
+	Query: "catalognumber:1747 institutioncode:HSU" ; Times: 2
+	Query: "locality:belleny ranch institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:5679 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2702 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2546 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:5657 institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:1729 institutioncode:HSU" ; Times: 2
+	Query: "hsu 2149" ; Times: 2
+	Query: "locality:quiyon" ; Times: 1
+	Query: "catalognumber:1561 institutioncode:HSU" ; Times: 2
+	Query: "class:Aves catalognumber:9325 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:2106 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "&#34;ferber field&#34;" ; Times: 1
+	Query: "catalognumber:7049 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2707 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2713 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2103 institutioncode:HSU" ; Times: 4
+	Query: "recordedby:yocom" ; Times: 2
+	Query: "institutioncode:HSU" ; Times: 2
+	Query: "black-bellied whistling duck" ; Times: 1
+	Query: "gbifdatasetid:9c007868-b667-4c07-9a1a-96b796066f64" ; Times: 1
+	Query: "catalognumber:1099 institutioncode:HSU" ; Times: 2
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "catalognumber:2540 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2293 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:7431 institutioncode:HSU" ; Times: 1
+	Query: "&#34;leslie salt&#34; &#34;san mateo&#34;" ; Times: 1
+	Query: "black brant" ; Times: 1
+	Query: "jack snipe" ; Times: 1
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1862 institutioncode:HSU" ; Times: 2
+	Query: "glaucidium capense" ; Times: 1
+	Query: "catalognumber:4603 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:lilianae genus:agapornis" ; Times: 1
+	Query: "aleutian tern" ; Times: 2
+	Query: "stateprovince:&#34;Palawan&#34; recordedby:P. Cua" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "catalognumber:602 institutioncode:HSU" ; Times: 2
+	Query: "Anacapa AND Haematopus bachmani" ; Times: 1
+	Query: "catalognumber:1266 institutioncode:HSU" ; Times: 1
+	Query: "class:Aves catalognumber:4731 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5904 institutioncode:HSU" ; Times: 3
+	Query: "class:Aves catalognumber:4954 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:8514 institutioncode:HSU" ; Times: 1
+	Query: "&#34;boundary campground&#34;" ; Times: 1
+	Query: "specificepithet:temminckii genus:Tragopan" ; Times: 1
+	Query: "recordedby:Hawes institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:5207 institutioncode:HSU" ; Times: 1
+	Query: "class:Aves catalognumber:7872 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5716 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:Pheucticus stateprovince:&#34;New York&#34; sex:male year &gt;= 1945" ; Times: 2
+	Query: "HSU 5637" ; Times: 3
+	Query: "class:Aves catalognumber:5476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5661 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:150 institutioncode:HSU" ; Times: 2
+	Query: "passenger pigeon" ; Times: 4
+	Query: "catalognumber:2381 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2127 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:Pheucticus stateprovince:&#34;California&#34; year &gt;= 1945" ; Times: 1
+	Query: "catalognumber:2042 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:3326 institutioncode:HSU" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "catalognumber:1786 institutioncode:HSU" ; Times: 2
+	Query: "&#34;stormount&#34;" ; Times: 1
+	Query: "catalognumber:5212 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:4444 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1893 institutioncode:HSU" ; Times: 1
+	Query: "class:Aves catalognumber:3282 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:7985 institutioncode:HSU" ; Times: 1
+	Query: "locality:Quiyon" ; Times: 1
+	Query: "catalognumber:2586 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:8581 institutioncode:HSU" ; Times: 2
+	Query: "Wilder AND Anacapa" ; Times: 3
+	Query: "catalognumber:168 institutioncode:HSU" ; Times: 1
+	Query: "locality:Mowitz" ; Times: 1
+	Query: "catalognumber:5355 institutioncode:HSU" ; Times: 1
+	Query: "locality:belleny ranch" ; Times: 3
+	Query: "catalognumber:5337 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1761 institutioncode:HSU" ; Times: 1
+	Query: "class:Aves catalognumber:3286 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:Mortensen institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1856 institutioncode:HSU" ; Times: 2
+	Query: "locality:page ranch county:&#34;pinal&#34;" ; Times: 1
+	Query: "&#34;faith ranch&#34;" ; Times: 1
+	Query: "locality:State Game Farm institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1881 institutioncode:HSU" ; Times: 2
+	Query: "Black buck" ; Times: 2
+	Query: "Dovekie" ; Times: 1
+	Query: "Wilder AND Island NOT Fish" ; Times: 1
+	Query: "catalognumber:744 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1222 institutioncode:HSU" ; Times: 2
+	Query: "hsu 1263" ; Times: 2
+	Query: "catalognumber:6921 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1885 institutioncode:HSU" ; Times: 2
+	Query: "Jabiru mycteria" ; Times: 2
+	Query: "Anas georgica" ; Times: 2
+	Query: "surfbird 1926" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 7
+	Query: "county:&#34;san bernardino&#34; recordedby:herron" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "catalognumber:5364 institutioncode:HSU" ; Times: 2
+	Query: "class:Aves catalognumber:3837 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;leslie salt&#34;" ; Times: 1
+	Query: "catalognumber:1594 institutioncode:HSU" ; Times: 1
+	Query: "eremophila alpestris humboldt" ; Times: 1
+	Query: "catalognumber:1591 institutioncode:HSU" ; Times: 2
+	Query: "class:Aves catalognumber:4557 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:169 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:216 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:americana family:Parulidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:2109 institutioncode:HSU" ; Times: 3
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "&#34;Chiricahueto&#34;" ; Times: 1
+	Query: "catalognumber:2536 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2102 institutioncode:HSU" ; Times: 4
+	Query: "recordedby:Eugene institutioncode:HSU" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "catalognumber:2373 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1854 institutioncode:HSU" ; Times: 4
+	Query: "catalognumber:1884 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1840 institutioncode:HSU" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1263 download events in this period)
+Total number of records downloaded: 125
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Canada ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 7
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-22 ; Times: 8
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 3
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:fischeri genus:agapornis" ; Times: 1
+	Query: "specificepithet:coruscans genus:colibri" ; Times: 1
+	Query: "specificepithet:lilianae genus:agapornis" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "order:Accipitriformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "genus:collocalia" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:temminckii genus:Tragopan" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:subulatus genus:todus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:New Mexico" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "specificepithet:satyra genus:Tragopan" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Oregon" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Ohio" ; Times: 1
+
+
+End of report.
