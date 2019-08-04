@@ -1,0 +1,156 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 1021
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 66
+	Country: Nepal ; Times: 4
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 22
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 9
+	Date: 2019-07-19 ; Times: 5
+	Date: 2019-07-12 ; Times: 9
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 10
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 3
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 9
+	Date: 2019-07-09 ; Times: 9
+	Date: 2019-07-08 ; Times: 12
+	Date: 2019-07-21 ; Times: 2
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-27 ; Times: 4
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-16 ; Times: 5
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-28 ; Times: 4
+	Date: 2019-07-05 ; Times: 6
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 4
+	Date: 2019-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus newelli" ; Times: 1
+	Query: "daption capense year &gt;= 1960 year &lt;= 2019 new zealand" ; Times: 1
+	Query: "scaup minnesota" ; Times: 1
+	Query: "Oceanodroma tethys year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Pyrrhura specificepithet:frontalis" ; Times: 1
+	Query: "genus:Picoides institutioncode:HSU" ; Times: 1
+	Query: "vntype:specimen genus:Eudromia preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Aethia specificepithet:pygmaea" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Trump" ; Times: 1
+	Query: "skeleton vntype:specimen family:Acanthisittidae" ; Times: 1
+	Query: "Blue-breasted Quail" ; Times: 2
+	Query: "pachyptila turtur new zealand" ; Times: 1
+	Query: "Spizocorys conirostris" ; Times: 10
+	Query: "Rallus crepitans south carolina" ; Times: 1
+	Query: "Vultur gryphus (Peru)" ; Times: 2
+	Query: "specificepithet:occidentalis genus:setophaga stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "Poicephalus senegalus" ; Times: 1
+	Query: "Oceanodroma tethys kelsalli" ; Times: 3
+	Query: "Strix occidentalis caurina" ; Times: 3
+	Query: "specificepithet:pacificus genus:Troglodytes stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Aratinga nenday" ; Times: 1
+	Query: "genus:Sternula specificepithet:antillarum" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "orange-crowned warbler hastissue:1" ; Times: 3
+	Query: "specificepithet:tolmiei genus:Geothlypis year &gt;= 1980 month &gt;= 7 month &lt;= 9" ; Times: 1
+	Query: "specificepithet:tolmiei genus:geothlypis stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 2
+	Query: "Hooded Pitta" ; Times: 3
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "genus:Chlorostilbon specificepithet:mellisugus" ; Times: 1
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "glaucidium capense" ; Times: 3
+	Query: "genus:Sephanoides specificepithet:sephanoides" ; Times: 1
+	Query: "HSU WildlifeBirds 9649" ; Times: 1
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 6
+	Query: "glaucous-winged x western gull" ; Times: 1
+	Query: "gbifdatasetid:9c007868-b667-4c07-9a1a-96b796066f64" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "Northern spotted owl" ; Times: 2
+	Query: "genus:Antrostomus specificepithet:carolinensis" ; Times: 1
+	Query: "Amazona tucumana" ; Times: 1
+	Query: "specificepithet:pusilla genus:Cardellina year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;North Carolina&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "oreothlypis celata hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;North Carolina&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "skeleton vntype:specimen genus:Acanthisitta" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "gbifdatasetid:9c007868-b667-4c07-9a1a-96b796066f64 procellariiformes" ; Times: 4
+	Query: "specificepithet:occidentalis genus:setophaga year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "genus:Spinus specificepithet:pinus" ; Times: 1
+	Query: "vntype:specimen genus:Eudromia preparations:skin AND (NOT immature NOT chick) institutioncode:HSU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "genus:Sporopipes specificepithet:squamifrons" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 985 download events in this period)
+Total number of records downloaded: 394
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-31 ; Times: 10
+	Date: 2019-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Branta bernicla" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:gujanensis genus:Cyclarhis class:Aves" ; Times: 1
+	Query: "specificepithet:occidentalis genus:setophaga year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:occidentalis genus:setophaga stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:bonariensis genus:Pipraeidea class:Aves" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+
+
+End of report.
