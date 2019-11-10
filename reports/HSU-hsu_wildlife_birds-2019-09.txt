@@ -1,0 +1,136 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 343
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 107
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 6
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-12 ; Times: 9
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-19 ; Times: 3
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 72
+	Date: 2019-09-05 ; Times: 6
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "catalognumber:2919 institutioncode:HSU" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Calidris canutus" ; Times: 15
+	Query: "gray fox" ; Times: 1
+	Query: "catalognumber:140 institutioncode:HSU" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 2
+	Query: "&#34;1700&#34; &#34;humboldt&#34;" ; Times: 1
+	Query: "weka" ; Times: 1
+	Query: "catalognumber:2190 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:987 institutioncode:HSU" ; Times: 1
+	Query: "locality:Aptos county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Apteryx" ; Times: 2
+	Query: "Empidonax traillii" ; Times: 8
+	Query: "catalognumber:158 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:5423 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:3273 institutioncode:HSU" ; Times: 2
+	Query: "Pyrenestes minor vntype:specimen" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "catalognumber:1546 institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:1111 institutioncode:HSU" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "sparkling violetear" ; Times: 3
+	Query: "catalognumber:1701 institutioncode:HSU" ; Times: 1
+	Query: "&#34;Mad River mouth&#34; institutioncode:HSU" ; Times: 1
+	Query: "Crested Shrike Tit" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sitta county:&#34;lassen&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Aptenodytes sex:Female" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "mourning dove wing" ; Times: 1
+	Query: "Ardenna gravis" ; Times: 1
+	Query: "&#34;bliss ranch&#34;" ; Times: 1
+	Query: "locality:big lake county:&#34;shasta&#34;" ; Times: 1
+	Query: "specificepithet:locustella family:estrildidae class:aves" ; Times: 1
+	Query: "specificepithet:ararauna genus:Ara year &gt;= 1970 hassex:1" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1073 download events in this period)
+Total number of records downloaded: 8865
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 3
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "anas georgica" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 2
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 1
+
+
+End of report.
