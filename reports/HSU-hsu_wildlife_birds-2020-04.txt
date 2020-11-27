@@ -1,0 +1,201 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 369
+Number of records retrieved in searches: 887
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Unknown ; Times: 12
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 298
+	Country: Argentina ; Times: 14
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-03 ; Times: 58
+	Date: 2020-04-17 ; Times: 10
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 49
+	Date: 2020-04-22 ; Times: 6
+	Date: 2020-04-05 ; Times: 4
+	Date: 2020-04-20 ; Times: 6
+	Date: 2020-04-07 ; Times: 116
+	Date: 2020-04-26 ; Times: 7
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-02 ; Times: 5
+	Date: 2020-04-25 ; Times: 5
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-21 ; Times: 61
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 18
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-27 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 11
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Anser fabalis" ; Times: 5
+	Query: "genus:mergus county:&#34;siskiyou&#34; recordedby:jacobsen" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 10
+	Query: "phoebastria albatrus" ; Times: 4
+	Query: "Tragopan satyra" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:phillips" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "Cygnus olor" ; Times: 10
+	Query: "elf" ; Times: 3
+	Query: "Lymnocryptes minimus" ; Times: 2
+	Query: "Eudyptula minor" ; Times: 7
+	Query: "Aethia pygmaea" ; Times: 6
+	Query: "lesser prairie chicken" ; Times: 1
+	Query: "C. psittacula" ; Times: 6
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Branta sandvicensis" ; Times: 5
+	Query: "Leiothrix lutea" ; Times: 3
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Stercorarius maccormicki" ; Times: 2
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "Anas diazi" ; Times: 4
+	Query: "Taeniopygia guttata" ; Times: 8
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "specificepithet:marinus genus:larus county:&#34;currituck&#34;" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Larus glaucoides" ; Times: 6
+	Query: "Calonectris diomedea" ; Times: 3
+	Query: "Mergellus albellus" ; Times: 5
+	Query: "Aptenodytes forsteri" ; Times: 4
+	Query: "Aix galericulata" ; Times: 2
+	Query: "Crossoptilon auritum" ; Times: 3
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Crax rubra" ; Times: 3
+	Query: "Phoenicurus auroreus" ; Times: 9
+	Query: "Butorides striata" ; Times: 9
+	Query: "Tragopan temminckii" ; Times: 5
+	Query: "Amazonetta brasiliensis" ; Times: 6
+	Query: "Alectoris barbara" ; Times: 6
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Motacilla tschutschensis" ; Times: 5
+	Query: "catalognumber:8458 institutioncode:HSU" ; Times: 2
+	Query: "Lophura swinhoii" ; Times: 3
+	Query: "Mexican Duck" ; Times: 1
+	Query: "Rhea americana" ; Times: 3
+	Query: "stateprovince:&#34;alaska&#34; recordedby:hehnke" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 3
+	Query: "Emberiza flaviventris" ; Times: 3
+	Query: "specificepithet:immutabilis family:Diomedeidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 5
+	Query: "vultur gryphus" ; Times: 3
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "coturnix chinensis" ; Times: 2
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Syrmaticus reevesii" ; Times: 3
+	Query: "specificepithet:gentilis class:aves stateprovince:&#34;alaska&#34; recordedby:osborne basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lophura leucomelanos" ; Times: 3
+	Query: "genus:mergus county:&#34;siskiyou&#34; year &gt;= 1982 year &lt;= 1982" ; Times: 3
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "Procellaria cinerea" ; Times: 9
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "skeleton specificepithet:minor family:phoenicopteridae" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 3
+	Query: "Aethia psittacula" ; Times: 6
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "Anas platyrhynchos sex:male AND (diazi)" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:phillips year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "genus:fratercula year &gt;= 1983 year &lt;= 1983" ; Times: 1
+	Query: "vntype:specimen institutioncode:HSU" ; Times: 5
+	Query: "Sternula antillarum" ; Times: 6
+	Query: "Stercorarius skua" ; Times: 2
+	Query: "Lophura ignita" ; Times: 3
+	Query: "catalognumber:8459 institutioncode:HSU" ; Times: 1
+	Query: "class:Aves county:&#34;walker&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "recordedby:Amundsen" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 6
+	Query: "Phalacrocorax urile" ; Times: 4
+	Query: "Coturnix japonica" ; Times: 2
+	Query: "specificepithet:gentilis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1983 year &lt;= 1983 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Himatione sanguinea" ; Times: 2
+	Query: "Pycnonotus sinensis" ; Times: 7
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "specificepithet:cirrhata genus:fratercula year &gt;= 1983 year &lt;= 1983" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:phillips basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;barnstable&#34; recordedby:bassett" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 2
+	Query: "specificepithet:marinus county:&#34;currituck&#34;" ; Times: 3
+	Query: "specificepithet:punensis genus:phrygilus" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 1
+	Query: "Crossoptilon mantchuricum" ; Times: 3
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Hymenolaimus malacorhynchos" ; Times: 11
+	Query: "Geranospiza caerulescens" ; Times: 9
+	Query: "Netta rufina" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1171 download events in this period)
+Total number of records downloaded: 274
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Argentina ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 4
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-27 ; Times: 5
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-25 ; Times: 3
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 8
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "Lymnocryptes minimus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla" ; Times: 1
+	Query: "lesser prairie chicken" ; Times: 1
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "painted bunting vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "specificepithet:punctulata genus:Lonchura" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "Rallus obsoletus" ; Times: 1
+
+
+End of report.
