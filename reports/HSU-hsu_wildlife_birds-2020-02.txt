@@ -1,0 +1,119 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 374
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Denmark ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-24 ; Times: 10
+	Date: 2020-02-25 ; Times: 5
+	Date: 2020-02-26 ; Times: 7
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-28 ; Times: 7
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-21 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "Callipepla douglasii" ; Times: 1
+	Query: "polyboroides radiatus vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:locustella family:Estrildidae" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen Greater Sage Grouse" ; Times: 1
+	Query: "himalayan monal" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 1989 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Elegant Quail" ; Times: 1
+	Query: "Oceanodroma tethys kelsalli" ; Times: 1
+	Query: "Ortygospiza atricollis" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "Cinclodes aricomae year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:virgata genus:Calidris" ; Times: 1
+	Query: "passenger pigeon" ; Times: 5
+	Query: "specificepithet:regalis genus:Buteo country:&#34;Mexico&#34;" ; Times: 3
+	Query: "HSU WildlifeBirds 9649" ; Times: 1
+	Query: "crecca minnesota" ; Times: 2
+	Query: "polyboroides radiatus vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "pelecanoides urinatrix pacific" ; Times: 1
+	Query: "Leptasthenura xenothorax year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "Oreomanes fraseri year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "black rosy-finch" ; Times: 1
+	Query: "hsu" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:HSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:HSU" ; Times: 1
+	Query: "daption new zealand" ; Times: 3
+	Query: "gbifdatasetid:9c007868-b667-4c07-9a1a-96b796066f64" ; Times: 2
+	Query: "Anas diazi" ; Times: 20
+	Query: "Greater Sage Grouse" ; Times: 2
+	Query: "Oceanodroma tethys" ; Times: 1
+	Query: "Foulehaio Samoa" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1023 download events in this period)
+Total number of records downloaded: 315
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 2
+	Country: Norway ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "Tyto alba" ; Times: 1
+	Query: "setophaga coronata auduboni" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Burhinus grallarius" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+
+
+End of report.
