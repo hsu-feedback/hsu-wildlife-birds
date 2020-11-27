@@ -1,0 +1,167 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 260
+Number of records retrieved in searches: 1263
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 242
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-15 ; Times: 21
+	Date: 2019-11-14 ; Times: 5
+	Date: 2019-11-16 ; Times: 46
+	Date: 2019-11-11 ; Times: 5
+	Date: 2019-11-10 ; Times: 5
+	Date: 2019-11-13 ; Times: 8
+	Date: 2019-11-12 ; Times: 4
+	Date: 2019-11-08 ; Times: 46
+	Date: 2019-11-28 ; Times: 2
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 17
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-09 ; Times: 36
+	Date: 2019-11-06 ; Times: 13
+	Date: 2019-11-07 ; Times: 36
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 2
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Brachyramphus marmoratus 1990" ; Times: 5
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Brachyramphus marmoratus 1992" ; Times: 5
+	Query: "Strix occidentalis caurina 2001" ; Times: 3
+	Query: "Coccyzus americanus 1978" ; Times: 4
+	Query: "Coccyzus americanus 1979" ; Times: 4
+	Query: "Strix occidentalis caurina 2004" ; Times: 3
+	Query: "catalognumber:759 institutioncode:HSU" ; Times: 2
+	Query: "Sharp-tailed grouse" ; Times: 4
+	Query: "elf" ; Times: 2
+	Query: "catalognumber:1736 institutioncode:HSU" ; Times: 2
+	Query: "Coccyzus americanus 1977" ; Times: 4
+	Query: "Strix occidentalis caurina 2000" ; Times: 3
+	Query: "Coccyzus americanus 1973" ; Times: 4
+	Query: "Brachyramphus marmoratus 2002" ; Times: 5
+	Query: "Brachyramphus marmoratus 2001" ; Times: 5
+	Query: "Strix occidentalis caurina 2016" ; Times: 3
+	Query: "scaly-breasted munia" ; Times: 2
+	Query: "Pitta sordida year &gt; 1990" ; Times: 1
+	Query: "Strix occidentalis caurina 2006" ; Times: 3
+	Query: "catalognumber:8459 institutioncode:HSU" ; Times: 2
+	Query: "himalayan monal" ; Times: 9
+	Query: "catalognumber:2710 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:705 institutioncode:HSU" ; Times: 1
+	Query: "Strix occidentalis caurina 1976" ; Times: 3
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "Brachyramphus marmoratus 2018" ; Times: 5
+	Query: "catalognumber:3518 institutioncode:HSU" ; Times: 1
+	Query: "Brachyramphus marmoratus 1979" ; Times: 5
+	Query: "Brachyramphus marmoratus 1976" ; Times: 5
+	Query: "yellow rail" ; Times: 3
+	Query: "Brachyramphus marmoratus 2016" ; Times: 8
+	Query: "Strix occidentalis caurina 1996" ; Times: 3
+	Query: "Strix occidentalis caurina 1991" ; Times: 3
+	Query: "Strix occidentalis caurina 1990" ; Times: 3
+	Query: "specificepithet:occidentalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "Aleutian tern" ; Times: 2
+	Query: "specificepithet:cassinii class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "Mycteria americana 2018" ; Times: 4
+	Query: "Mycteria americana 2017" ; Times: 4
+	Query: "Brachyramphus marmoratus 2017" ; Times: 5
+	Query: "catalognumber:4594 institutioncode:HSU" ; Times: 4
+	Query: "passenger pigeon" ; Times: 4
+	Query: "Pterodroma hasitata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:delevan" ; Times: 1
+	Query: "Strix occidentalis caurina 2015" ; Times: 3
+	Query: "class:aves catalognumber:8584 year:2001 month:6" ; Times: 3
+	Query: "whooping crane" ; Times: 2
+	Query: "Strix occidentalis caurina 2009" ; Times: 3
+	Query: "Strix occidentalis caurina 2011" ; Times: 3
+	Query: "Strix occidentalis caurina 2013" ; Times: 3
+	Query: "Strix occidentalis caurina 2012" ; Times: 3
+	Query: "yellow-vented bulbul" ; Times: 1
+	Query: "Strix occidentalis caurina 2007" ; Times: 3
+	Query: "Strix occidentalis caurina 2018" ; Times: 3
+	Query: "catalognumber:3517 institutioncode:HSU" ; Times: 1
+	Query: "Strix occidentalis caurina 1984" ; Times: 3
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "class:aves catalognumber:8584 year:2001 month:6 day:10" ; Times: 6
+	Query: "Pycnonotus xanthopygos" ; Times: 2
+	Query: "Brachyramphus marmoratus 2014" ; Times: 5
+	Query: "Strix occidentalis caurina 2017" ; Times: 3
+	Query: "catalognumber:2140 institutioncode:HSU" ; Times: 2
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 3
+	Query: "gbifdatasetid:9c007868-b667-4c07-9a1a-96b796066f64" ; Times: 1
+	Query: "Coccyzus americanus 1986" ; Times: 4
+	Query: "Brachyramphus marmoratus 1983" ; Times: 5
+	Query: "Strix occidentalis caurina 1983" ; Times: 3
+	Query: "Strix occidentalis caurina 1981" ; Times: 3
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "northern mallard" ; Times: 1
+	Query: "Strix occidentalis caurina 1985" ; Times: 3
+	Query: "specificepithet:locustella family:estrildidae" ; Times: 4
+	Query: "Coccyzus americanus 2017" ; Times: 8
+	Query: "catalognumber:8458 institutioncode:HSU" ; Times: 2
+	Query: "recordedby:robjent" ; Times: 1
+	Query: "Anas diazi" ; Times: 1
+	Query: "specificepithet:locustella family:estrildidae class:aves" ; Times: 1
+	Query: "Strix occidentalis caurina 1982" ; Times: 3
+	Query: "pycnonotus xanthopygos" ; Times: 1
+	Query: "catalognumber:8429 institutioncode:HSU" ; Times: 2
+	Query: "Coccyzus americanus 2018" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1367 download events in this period)
+Total number of records downloaded: 95
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "savannah sparrow" ; Times: 1
+	Query: "passenger pigeon" ; Times: 2
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "whooping crane" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "flammulated owl" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1980" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+
+
+End of report.
