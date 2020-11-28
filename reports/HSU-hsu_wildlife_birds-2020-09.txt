@@ -1,0 +1,130 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 82
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Brazil ; Times: 6
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-15 ; Times: 4
+	Date: 2020-09-16 ; Times: 5
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-28 ; Times: 3
+	Date: 2020-09-19 ; Times: 2
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-25 ; Times: 8
+	Date: 2020-09-23 ; Times: 6
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "specificepithet:cookii genus:pterodroma stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "Red-billed Pigeon" ; Times: 1
+	Query: "specificepithet:elegans genus:eudromia family:tinamidae year &gt;= 1901" ; Times: 1
+	Query: "Clamator jacobinus serratus" ; Times: 1
+	Query: "specificepithet:asiatica genus:Zenaida stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Callonetta class:Aves" ; Times: 2
+	Query: "specificepithet:nebulosa class:aves stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:inexpectata genus:pterodroma stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tinamidae vntype:specimen (Eudromia elegans ) year &gt;= 1901" ; Times: 1
+	Query: "specificepithet:asiatica genus:Zenaida stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "family:Sulidae year &gt;= 1987 year &lt;= 1991" ; Times: 2
+	Query: "specificepithet:fabalis genus:anser country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:Pinicola class:Aves year &gt;= 1896 year &lt;= 1896 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:callonetta class:Aves" ; Times: 1
+	Query: "family:Sulidae year &gt;= 1989 year &lt;= 1991" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 10
+	Query: "Tinamidae vntype:specimen (Eudromia elegans) year &gt;= 1901" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus year &gt;= 1924 year &lt;= 1924 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Vultur gryphus" ; Times: 11
+	Query: "family:Icteridae stateprovince:&#34;California&#34; year &gt;= 1985 year &lt;= 1987" ; Times: 2
+	Query: "procellariiformes year &gt;= 2015 year &lt;= 2020" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:longirostra genus:arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:cookii genus:pterodroma stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:7909 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:nebulosa class:aves stateprovince:&#34;california&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 976 download events in this period)
+Total number of records downloaded: 9829
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-13 ; Times: 7
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-04 ; Times: 3
+	Date: 2020-09-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Phasianidae continent:Africa" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "vntype:specimen family:Numididae" ; Times: 1
+	Query: "vntype:specimen specificepithet:urogallus genus:Tetrao continent:Europe hassex:1" ; Times: 1
+	Query: "vntype:specimen order:Galliformes continent:Africa" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "Tinamidae vntype:specimen (Eudromia elegans ) year &gt;= 1901" ; Times: 1
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "class:Aves country:&#34;Tanzania&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
