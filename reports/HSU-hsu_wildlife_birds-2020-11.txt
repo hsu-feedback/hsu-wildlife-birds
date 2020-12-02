@@ -1,0 +1,135 @@
+Report for Institution Code HSU, Resource hsu_wildlife_birds
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 150
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 12
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 38
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 5
+	Date: 2020-11-22 ; Times: 4
+	Date: 2020-11-23 ; Times: 4
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-06 ; Times: 2
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-02 ; Times: 12
+	Date: 2020-11-28 ; Times: 2
+	Date: 2020-11-29 ; Times: 1
+	Date: 2020-11-19 ; Times: 3
+	Date: 2020-11-18 ; Times: 2
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-14 ; Times: 2
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-10 ; Times: 3
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger Pigeon" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 2
+	Query: "red-footed booby" ; Times: 1
+	Query: "golden pheasant" ; Times: 2
+	Query: "Actophilornis africanus" ; Times: 2
+	Query: "specificepithet:cyanocephalus genus:euphagus year &gt;= 1986 year &lt;= 1986" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "specificepithet:palmarum family:Parulidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "zosterops japonicus country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 2
+	Query: "Petroica macrocephala" ; Times: 1
+	Query: "elf" ; Times: 12
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "calonectris diomedea" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Arizona&#34; year &gt;= 1985 year &lt;= 1985" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Anser fabalis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Imperial Woodpecker" ; Times: 3
+	Query: "Falco naumanni" ; Times: 2
+	Query: "1657 hsu" ; Times: 2
+	Query: "brookwood" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "greater sage-grouse" ; Times: 1
+	Query: "resplendent quetzal specimen" ; Times: 2
+	Query: "Phoenicurus auroreus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Arizona&#34; year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "class:aves county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1988 year &lt;= 1988" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Wyoming&#34; year &gt;= 1985 year &lt;= 1985" ; Times: 1
+	Query: "class:aves county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "HSU 1653" ; Times: 1
+	Query: "puffinus opisthomelas year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "hymenolaimus hymenolaimus" ; Times: 1
+	Query: "HSU 1322" ; Times: 2
+	Query: "vntype:specimen class:Aves country:&#34;United States&#34; recordedby:Fox" ; Times: 1
+	Query: "Maxon" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 842 download events in this period)
+Total number of records downloaded: 643
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Australia ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-09 ; Times: 5
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-07 ; Times: 2
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-03 ; Times: 6
+	Date: 2020-11-10 ; Times: 13
+	Date: 2020-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Psiloscops flammeolus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fischeri genus:Somateria" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "vntype:specimen specificepithet:Lagopus genus:Lagopus" ; Times: 2
+	Query: "golden pheasant" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "resplendent quetzal" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "Lapland longspur" ; Times: 1
+	Query: "vntype:specimen specificepithet:corniculata genus:Fratercula" ; Times: 2
+	Query: "vntype:specimen specificepithet:bicolor genus:Baeolophus" ; Times: 2
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "vntype:specimen specificepithet:Gnoma genus:Glaucidium" ; Times: 2
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "greater sage-grouse" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "vntype:specimen specificepithet:gnoma genus:Glaucidium" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Lagopus" ; Times: 3
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "specificepithet:Californica genus:Callipepla county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+
+
+End of report.
